@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdaddaa5-2575-4b39-b9b0-fbbe2ce029a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixwQ60Q57QVr847uWFapXX9nSi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.testtask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SearchItemTests.testItem">
+    <configuration name="SearchItemTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.testtask.SearchItemTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchItemTests.testItem" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.testtask.SearchItemTests.testItem&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Yandex_test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Yandex_test" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SearchItemTests.testItem" />
+        <item itemvalue="Gradle.SearchItemTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdaddaa5-2575-4b39-b9b0-fbbe2ce029a4" name="Default Changelist" comment="" />
+      <created>1602862532718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602862532718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="202" key="#Project_Structure" timestamp="1602862728114">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="202" key="#Project_Structure/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602862728114" />
+    <state x="477" y="179" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1602874790525">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="179" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874790525" />
+    <state x="445" y="150" key="FileChooserDialogImpl" timestamp="1602876509892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="150" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602876509892" />
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1602874660916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874660916" />
+    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1602874660915">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874660915" />
+    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1602874660915">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874660915" />
+    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1602874660915">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874660915" />
+    <state x="549" y="110" width="438" height="708" key="RefactorJ.IntroduceParameterObject" timestamp="1602875516557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="110" width="438" height="708" key="RefactorJ.IntroduceParameterObject/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602875516557" />
+    <state x="592" y="370" key="ReplaceDuplicatesPrompt" timestamp="1602865404183">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="370" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602865404183" />
+    <state x="249" y="10" key="SettingsEditor" timestamp="1602876533905">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="10" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602876533905" />
+    <state x="499" y="195" width="538" height="482" key="extract.method.dialog" timestamp="1602873698010">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="195" width="538" height="482" key="extract.method.dialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602873698010" />
+    <state x="477" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1602874130026">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="58" key="refactoring.ChangeSignatureDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602874130026" />
+  </component>
+</project>
